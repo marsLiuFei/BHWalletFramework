@@ -20,7 +20,7 @@ test BHWalletFramework 1013.a
   spec.source       = { :git => "https://github.com/marsLiuFei/BHWalletFramework.git", :tag => "#{spec.version}" }
 
    spec.resource  = 'BHWalletFramework/Resources.bundle'
-   spec.ios.vendored_frameworks = 'BHWalletFramework/libHBWallet.a'
+   spec.ios.vendored_frameworks = 'BHWalletFramework/HBWalletFramework.framework'
  
    
 
