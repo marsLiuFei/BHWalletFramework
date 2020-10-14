@@ -2,11 +2,11 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BHWalletFramework"
-  spec.version      = "0.0.1"
-  spec.summary      = "test BHWalletFramework 1006."
+  spec.version      = "0.0.2"
+  spec.summary      = "test BHWalletFramework 1006.1"
 
   spec.description  = <<-DESC
-test BHWalletFramework 1013.a
+test BHWalletFramework 1013.a1
                    DESC
 
   spec.homepage     = "https://github.com/marsLiuFei/BHWalletFramework"
