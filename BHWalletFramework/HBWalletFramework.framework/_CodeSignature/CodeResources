@@ -10,7 +10,7 @@
 		</data>
 		<key>Headers/WRWalletManager.h</key>
 		<data>
-		+EcVmDDgWXVPvONwrBHDs+3Tzis=
+		CKrxAgyrOrIHaLn9Re3MI6pr6Yk=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -365,10 +365,6 @@
 		<data>
 		JTtoYarxRY0mn/IXf88Q3HpQ7uA=
 		</data>
-		<key>jiazai.gif</key>
-		<data>
-		Z7o3xck9zNIVC1XqiBn6NWlJkhQ=
-		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -376,11 +372,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+EcVmDDgWXVPvONwrBHDs+3Tzis=
+			CKrxAgyrOrIHaLn9Re3MI6pr6Yk=
 			</data>
 			<key>hash2</key>
 			<data>
-			qRMz40LCmLdcjqwjv5lHbxgGbPTEycUQ3qVyKT/5ZYc=
+			2BHfYxE4csBZisddqSw5RxYmu90UZNH4NOAbFHCfLKw=
 			</data>
 		</dict>
 		<key>Resources.bundle/DAIKUAN@2x.png</key>
@@ -1329,17 +1325,6 @@
 			<key>hash2</key>
 			<data>
 			4mN93mviDL4WvW9hXqYfIF0JctpBRVX0DiyEpo+R7rU=
-			</data>
-		</dict>
-		<key>jiazai.gif</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z7o3xck9zNIVC1XqiBn6NWlJkhQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			cyV8giYOc+EI25qgWg0Dy+ii8yyL497QdbLrI7L3d9w=
 			</data>
 		</dict>
 	</dict>
