@@ -365,6 +365,10 @@
 		<data>
 		JTtoYarxRY0mn/IXf88Q3HpQ7uA=
 		</data>
+		<key>jiazai.gif</key>
+		<data>
+		Z7o3xck9zNIVC1XqiBn6NWlJkhQ=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -1325,6 +1329,17 @@
 			<key>hash2</key>
 			<data>
 			4mN93mviDL4WvW9hXqYfIF0JctpBRVX0DiyEpo+R7rU=
+			</data>
+		</dict>
+		<key>jiazai.gif</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Z7o3xck9zNIVC1XqiBn6NWlJkhQ=
+			</data>
+			<key>hash2</key>
+			<data>
+			cyV8giYOc+EI25qgWg0Dy+ii8yyL497QdbLrI7L3d9w=
 			</data>
 		</dict>
 	</dict>

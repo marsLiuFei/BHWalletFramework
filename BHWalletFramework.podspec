@@ -2,7 +2,7 @@
 Pod::Spec.new do |spec|
 
   spec.name         = "BHWalletFramework"
-  spec.version      = "1.0.1"
+  spec.version      = "1.0.2"
   spec.summary      = "test BHWalletFramework 1006.1"
 
   spec.description  = <<-DESC
@@ -27,23 +27,19 @@ test BHWalletFramework 1013.a1
   spec.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
    
   #  spec.source_files = 'BHWalletFramework/*'
-
-    spec.dependency 'Masonry', '~> 1.1.0'
-    spec.dependency 'MJRefresh', '~> 3.4.3'
-    spec.dependency 'MJExtension', '~> 3.2.2'
-    spec.dependency 'MBProgressHUD', '~> 1.2.0'
-    spec.dependency 'IQKeyboardManager', '~> 6.5.6'
-    spec.dependency 'XMNetworking', '~> 1.1.0'
-    spec.dependency 'SDWebImage', '~> 5.8.0'
-    spec.dependency 'CRBoxInputView', '~> 1.2.1'
-    spec.dependency 'YYText', '~> 1.0.7'
-    spec.dependency 'JXCategoryView', '~> 1.5.6'
-    spec.dependency 'JXPagingView/Pager', '~> 1.0.1'
-    spec.dependency 'BlocksKit', '~> 2.2.5'
-    spec.dependency 'DZNEmptyDataSet', '~> 1.8.1'
-    spec.dependency 'CXDatePickerView', '~> 0.2.2'
-    spec.dependency 'IFMMenu', '~> 1.0.3'
-
+  spec.dependency 'Masonry', '~> 1.1.0'
+  spec.dependency 'MJRefresh', '~> 3.4.3'
+  spec.dependency 'MJExtension', '~> 3.2.2'
+  spec.dependency 'MBProgressHUD', '~> 1.2.0'
+  spec.dependency 'IQKeyboardManager', '~> 6.5.6'
+  spec.dependency 'AFNetworking', '~> 4.0.1'
+  spec.dependency 'SDWebImage', '~> 5.8.0'
+  spec.dependency 'CRBoxInputView', '~> 1.2.1'
+  spec.dependency 'YYText', '~> 1.0.7'
+  spec.dependency 'JXCategoryView', '~> 1.5.6'
+  spec.dependency 'JXPagingView/Pager', '~> 1.0.1'
+  spec.dependency 'DZNEmptyDataSet', '~> 1.8.1'
+  spec.dependency 'CXDatePickerView', '~> 0.2.2'
 
    spec.requires_arc = true
 end
