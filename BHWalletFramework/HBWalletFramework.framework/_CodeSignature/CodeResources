@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>.DS_Store</key>
-		<data>
-		UzYNwQZ7rG3H5htvIv9+Q/SG6Xo=
-		</data>
 		<key>Headers/WRWalletManager.h</key>
 		<data>
 		73jWLsxKXh0qBO8alqZPvb8HHNY=
@@ -364,10 +360,6 @@
 		<key>Resources.bundle/zanwujiaoyi@3x.png</key>
 		<data>
 		JTtoYarxRY0mn/IXf88Q3HpQ7uA=
-		</data>
-		<key>jiazai.gif</key>
-		<data>
-		Z7o3xck9zNIVC1XqiBn6NWlJkhQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -1329,17 +1321,6 @@
 			<key>hash2</key>
 			<data>
 			4mN93mviDL4WvW9hXqYfIF0JctpBRVX0DiyEpo+R7rU=
-			</data>
-		</dict>
-		<key>jiazai.gif</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			Z7o3xck9zNIVC1XqiBn6NWlJkhQ=
-			</data>
-			<key>hash2</key>
-			<data>
-			cyV8giYOc+EI25qgWg0Dy+ii8yyL497QdbLrI7L3d9w=
 			</data>
 		</dict>
 	</dict>
