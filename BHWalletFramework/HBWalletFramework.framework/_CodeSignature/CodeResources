@@ -6,7 +6,7 @@
 	<dict>
 		<key>Headers/WRWalletManager.h</key>
 		<data>
-		73jWLsxKXh0qBO8alqZPvb8HHNY=
+		yWBCrhZrLAB5SL7xYKf5ARpTvCc=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -187,11 +187,11 @@
 		</data>
 		<key>Resources.bundle/manage_bg_icon@2x.png</key>
 		<data>
-		hnscVbsoxVN3Zbiz7O1J+yjBrNo=
+		9pgvYn+itn/UrW5odHiUx9yvEzc=
 		</data>
 		<key>Resources.bundle/manage_bg_icon@3x.png</key>
 		<data>
-		hRiwKg8tUhz5OHBdAXo1MBQPHsw=
+		aT3hTLLhxC2EJ/AzyyM5+CSfkDw=
 		</data>
 		<key>Resources.bundle/manage_logo_icon@2x.png</key>
 		<data>
@@ -368,11 +368,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			73jWLsxKXh0qBO8alqZPvb8HHNY=
+			yWBCrhZrLAB5SL7xYKf5ARpTvCc=
 			</data>
 			<key>hash2</key>
 			<data>
-			/xyIBMh88UzEBXZmBpUFHqSDFbzZ7SyZGv2LGS0BKCg=
+			Y/eJcRuAFCSdeRZ0n8pNmVLu8JU/+fTjdgB3AKvngTc=
 			</data>
 		</dict>
 		<key>Resources.bundle/DAIKUAN@2x.png</key>
@@ -843,22 +843,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hnscVbsoxVN3Zbiz7O1J+yjBrNo=
+			9pgvYn+itn/UrW5odHiUx9yvEzc=
 			</data>
 			<key>hash2</key>
 			<data>
-			oB0ARp5uvsYC1ykP36yOT/9yrnC4PJqbzPDriTm5Tlg=
+			B5VAza3x2UnSQwWjG+MUfk6iuClLXxluYLUSCwe2y2s=
 			</data>
 		</dict>
 		<key>Resources.bundle/manage_bg_icon@3x.png</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			hRiwKg8tUhz5OHBdAXo1MBQPHsw=
+			aT3hTLLhxC2EJ/AzyyM5+CSfkDw=
 			</data>
 			<key>hash2</key>
 			<data>
-			g7rRSgr51ExhTwf2hZ41rTUNgNaYaKEAMjipkq8gfCI=
+			2l7KfM0nv1Vv8RxXNDIV4qHRro5sUsw0oHjFVQ4d7eY=
 			</data>
 		</dict>
 		<key>Resources.bundle/manage_logo_icon@2x.png</key>

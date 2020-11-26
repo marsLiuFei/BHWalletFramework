@@ -27,7 +27,7 @@ NS_ASSUME_NONNULL_BEGIN
  */
 - (void )openWalletMinePageWithUid:(NSString *)userid currentViewController:(UIViewController *)currentViewController;
 /**
- *@Param params  字典包含 字段(1.mUserId 用户id  2.payType 0:普通钱包支付 1:绑定卡代扣支付 3. transAmount 金额 4.remark 附言/备注 5.orderNumber 订单编号 6.requestTime 请求时间)
+ *@Param params  字典包含 字段(1.mUserId 用户appId  2.payMethod 0:普通钱包支付 1:绑定卡代扣支付 3. transAmount 金额 4.remark 附言/备注 5.orderNumber 订单编号 6.requestTime 请求时间 6.communityId 真实项目ID 7.custId 客户ID)
  *@Param currentViewController 当前控制器(非导航控制器)
  *@Param PayResultBlock 返回数据包含code、msg、data
  */
